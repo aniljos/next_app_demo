@@ -1,0 +1,12 @@
+.product{
+    background-color: teal;
+    border-color: steelblue;
+    border-width: 2px;
+    border-style: solid;
+    width: 300px;
+    height: 200px;
+    margin: 7px;
+    padding: 7px;
+    border-radius: 10px;
+
+}
